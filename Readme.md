@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/n4jdgoedxvgbyv7u?svg=true)](https://ci.appveyor.com/project/elenkalee/aqa-2-2-selenide-card-delivery)
